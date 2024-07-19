@@ -1,0 +1,6 @@
+mkdir weather-forecast
+cd weather-forecast
+npx create-react-app client
+npm init -y
+npm install express axios cors
+-
